@@ -120,6 +120,6 @@ InitTestScene*.unity*
 *.unityproj
 *.booproj
 
-# Системные файлы
+# System  files 
 .DS_Store
 Thumbs.db
